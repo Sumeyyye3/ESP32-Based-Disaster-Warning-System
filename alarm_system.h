@@ -1,4 +1,4 @@
-/* * Dosya: AlarmSystem.h
+/* * 
  * Açıklama: Buzzer (Alarm) sistemi için donanım pin tanımlamaları 
  * ve fonksiyon prototiplerini içeren başlık dosyası.
  */

@@ -1,4 +1,4 @@
-/* * Dosya: AlarmSystem.cpp
+/* * 
  * Açıklama: ESP32'nin LEDC (PWM) birimini kullanarak buzzer üzerinden 
  * farklı frekanslarda ses üretilmesini sağlayan fonksiyonların gövdesi.
  */

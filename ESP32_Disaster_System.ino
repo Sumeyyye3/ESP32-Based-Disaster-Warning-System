@@ -1,4 +1,4 @@
-/* * Proje: ESP32 Tabanlı Afet Uyarı Sistemi
+/* * 
  * Açıklama: Su ve Gaz sensörlerinden gelen verileri modüler bir yapıda 
  * işleyen ve tehlike durumuna göre farklı frekanslarda buzzer uyarısı veren ana kod.
  */

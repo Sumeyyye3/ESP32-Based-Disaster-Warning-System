@@ -1,4 +1,4 @@
-/* * Dosya: GasSensor.h
+/* * 
  * Açıklama: Gaz (MQ-2/MQ-5) sensörü modülü için donanım pin tanımlamaları 
  * ve fonksiyon prototiplerini içeren başlık dosyası.
  */

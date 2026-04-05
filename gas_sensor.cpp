@@ -1,4 +1,4 @@
-/* *
+/* *l
  * Açıklama: Gaz sensöründen (MQ-2/MQ-5) analog verilerin okunması ve 
  * bu verilerin tehlike sınırına göre analiz edilmesini sağlayan fonksiyonlar.
  */
